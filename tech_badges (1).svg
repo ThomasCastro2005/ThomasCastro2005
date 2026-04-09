@@ -1,0 +1,156 @@
+<svg width="800" height="520" viewBox="0 0 800 520" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI',system-ui,sans-serif">
+<defs>
+  <linearGradient id="g-b" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#1a1a2e"/><stop offset="100%" stop-color="#16213e"/></linearGradient>
+  <linearGradient id="g-f" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#0f3460"/><stop offset="100%" stop-color="#0a1628"/></linearGradient>
+  <linearGradient id="g-c" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#1a0533"/><stop offset="100%" stop-color="#0d0221"/></linearGradient>
+  <linearGradient id="g-d" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#0a2818"/><stop offset="100%" stop-color="#041208"/></linearGradient>
+  <linearGradient id="g-t" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#1f0a0a"/><stop offset="100%" stop-color="#120404"/></linearGradient>
+  <linearGradient id="p-java" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#f89820"/><stop offset="100%" stop-color="#c85000"/></linearGradient>
+  <linearGradient id="p-spring" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#7ec850"/><stop offset="100%" stop-color="#4a8f1f"/></linearGradient>
+  <linearGradient id="p-node" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#5dba4f"/><stop offset="100%" stop-color="#217a14"/></linearGradient>
+  <linearGradient id="p-php" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#9a8fd0"/><stop offset="100%" stop-color="#5a4e9a"/></linearGradient>
+  <linearGradient id="p-react" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#23d9fb"/><stop offset="100%" stop-color="#0891b2"/></linearGradient>
+  <linearGradient id="p-ts" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#4d9de0"/><stop offset="100%" stop-color="#1a5fa8"/></linearGradient>
+  <linearGradient id="p-js" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ffe566"/><stop offset="100%" stop-color="#d4a000"/></linearGradient>
+  <linearGradient id="p-tw" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#38d9f5"/><stop offset="100%" stop-color="#0284c7"/></linearGradient>
+  <linearGradient id="p-astro" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#d580ff"/><stop offset="100%" stop-color="#7c22b0"/></linearGradient>
+  <linearGradient id="p-html" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ff7043"/><stop offset="100%" stop-color="#bf360c"/></linearGradient>
+  <linearGradient id="p-css" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#42a5f5"/><stop offset="100%" stop-color="#1565c0"/></linearGradient>
+  <linearGradient id="p-lambda" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ffb74d"/><stop offset="100%" stop-color="#e65100"/></linearGradient>
+  <linearGradient id="p-dynamo" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#7986cb"/><stop offset="100%" stop-color="#283593"/></linearGradient>
+  <linearGradient id="p-s3" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#81c784"/><stop offset="100%" stop-color="#2e7d32"/></linearGradient>
+  <linearGradient id="p-sls" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ff7961"/><stop offset="100%" stop-color="#c41c00"/></linearGradient>
+  <linearGradient id="p-supa" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#4ade80"/><stop offset="100%" stop-color="#15803d"/></linearGradient>
+  <linearGradient id="p-azure" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#60a5fa"/><stop offset="100%" stop-color="#1d4ed8"/></linearGradient>
+  <linearGradient id="p-mysql" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#64b5f6"/><stop offset="100%" stop-color="#1565c0"/></linearGradient>
+  <linearGradient id="p-gql" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#f06292"/><stop offset="100%" stop-color="#880e4f"/></linearGradient>
+  <linearGradient id="p-n8n" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ff80ab"/><stop offset="100%" stop-color="#c2185b"/></linearGradient>
+  <linearGradient id="p-zoho" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ef5350"/><stop offset="100%" stop-color="#b71c1c"/></linearGradient>
+  <linearGradient id="p-figma" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ff7043"/><stop offset="100%" stop-color="#e64a19"/></linearGradient>
+  <linearGradient id="p-git" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ff7043"/><stop offset="100%" stop-color="#bf360c"/></linearGradient>
+  <linearGradient id="p-github" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#757575"/><stop offset="100%" stop-color="#212121"/></linearGradient>
+  <linearGradient id="p-kotlin" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#b39ddb"/><stop offset="100%" stop-color="#6200ea"/></linearGradient>
+  <linearGradient id="p-jetpack" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#64b5f6"/><stop offset="100%" stop-color="#0d47a1"/></linearGradient>
+</defs>
+
+<!-- ══ BACKEND ══ -->
+<rect x="10" y="10" width="780" height="84" rx="14" fill="url(#g-b)"/>
+<text x="26" y="30" font-size="9" font-weight="700" letter-spacing="2" fill="#fff" opacity="0.38">BACKEND &amp; APIs</text>
+<!-- Java -->
+<rect x="24" y="37" width="112" height="44" rx="22" fill="url(#p-java)"/>
+<g transform="translate(37,49) scale(0.55)"><path d="M11.5 24.5s-1.5.9.9 1.2c2.9.4 4.3.3 7.5-.3 0 0 .8.5 2 1C14 29 4.4 26.5 11.5 24.5zm-.8-3.7s-1.7 1.3.9 1.5c3.3.3 5.9.3 10.4-.4 0 0 .6.6 1.5.9C14.3 25 3.8 22.7 10.7 20.8z" fill="white"/><path d="M18.4 14.1s2.9 3-2.7 7.6c-4.5 3.5-.9 5.5 0 7.8-2.6-2.3-4.5-4.3-3.2-6.2 1.8-2.8 6.9-4.1 5.9-9.2z" fill="white"/><path d="M19.1 32.2s1.1.9-1.2 1.6c-4.4 1.3-18.3 1.7-22.2 0-1.4-.6 1.2-1.4 2-.1.8.4 1.2.4 1.2.4-1.4-1-9.2.2-3.9 1.4 14.6 2.9 26.6-1.3 24.1-3.3zm.5-5.5s-1.4 1.1-1 1.5c-3.7-1-9.9-1-9.9-1 3 .9 6.2.9 9.9.4-.1-.2.1-.5 1-.9z" fill="white"/></g>
+<text x="80" y="64" font-size="13" font-weight="700" fill="white" text-anchor="middle">Java</text>
+<!-- Spring Boot -->
+<rect x="146" y="37" width="140" height="44" rx="22" fill="url(#p-spring)"/>
+<g transform="translate(160,49) scale(0.55)"><path d="M45.1 0C25.3 0 9.2 16.1 9.2 36c0 3.8.6 7.4 1.7 10.8L0 56l10.1-2.4C14.4 57.2 19.5 59 25 59c19.8 0 35.9-16.1 35.9-36C60.9 3.6 53 0 45.1 0zm0 54.5c-5.1 0-9.9-1.5-13.9-4.1l-1-.6-9.8 2.3 2.5-9.4-.7-1.1C19.9 37.2 18.6 33 18.6 28.5 18.6 13 31.5 0 46.4 0c7.3 0 14 2.8 19.1 7.9C70.6 13 73.4 19.8 73.4 27.2 73.4 42.6 60.5 55.6 45.1 54.5z" fill="white" opacity="0"/><circle cx="22" cy="22" r="20" fill="none" stroke="white" stroke-width="2.5"/><path d="M14 22c0-4.4 3.6-8 8-8s8 3.6 8 8-3.6 8-8 8" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round"/><path d="M22 14v16M14 22h16" stroke="white" stroke-width="2.5" stroke-linecap="round" opacity="0"/><path d="M28 16l-12 12M16 16l12 12" stroke="white" stroke-width="2.5" stroke-linecap="round" opacity="0"/><path d="M22 8v4M22 30v4M8 22h4M30 22h4" stroke="white" stroke-width="2" stroke-linecap="round" opacity="0.6"/></g>
+<text x="216" y="64" font-size="13" font-weight="700" fill="white" text-anchor="middle">Spring Boot</text>
+<!-- Node.js -->
+<rect x="296" y="37" width="112" height="44" rx="22" fill="url(#p-node)"/>
+<g transform="translate(310,49) scale(0.55)"><polygon points="22,2 42,13 42,35 22,46 2,35 2,13" fill="none" stroke="white" stroke-width="3"/><text x="22" y="30" font-size="18" font-weight="800" fill="white" text-anchor="middle" font-family="sans-serif">N</text></g>
+<text x="364" y="64" font-size="13" font-weight="700" fill="white" text-anchor="middle">Node.js</text>
+<!-- PHP -->
+<rect x="418" y="37" width="96" height="44" rx="22" fill="url(#p-php)"/>
+<g transform="translate(432,50) scale(0.52)"><ellipse cx="24" cy="12" rx="24" ry="12" fill="none" stroke="white" stroke-width="2.5"/><text x="24" y="16" font-size="15" font-weight="800" fill="white" text-anchor="middle" font-family="monospace">php</text></g>
+<text x="477" y="64" font-size="13" font-weight="700" fill="white" text-anchor="middle">PHP</text>
+
+<!-- ══ FRONTEND ══ -->
+<rect x="10" y="104" width="780" height="84" rx="14" fill="url(#g-f)"/>
+<text x="26" y="124" font-size="9" font-weight="700" letter-spacing="2" fill="#fff" opacity="0.38">FRONTEND</text>
+<!-- React -->
+<rect x="24" y="131" width="104" height="44" rx="22" fill="url(#p-react)"/>
+<g transform="translate(38,143) scale(0.52)"><ellipse cx="22" cy="22" rx="20" ry="8" fill="none" stroke="white" stroke-width="2.2"/><ellipse cx="22" cy="22" rx="20" ry="8" fill="none" stroke="white" stroke-width="2.2" transform="rotate(60,22,22)"/><ellipse cx="22" cy="22" rx="20" ry="8" fill="none" stroke="white" stroke-width="2.2" transform="rotate(120,22,22)"/><circle cx="22" cy="22" r="3.5" fill="white"/></g>
+<text x="76" y="158" font-size="13" font-weight="700" fill="white" text-anchor="middle">React</text>
+<!-- TypeScript -->
+<rect x="138" y="131" width="130" height="44" rx="22" fill="url(#p-ts)"/>
+<g transform="translate(152,143) scale(0.52)"><rect x="2" y="2" width="40" height="40" rx="4" fill="white" opacity="0.25"/><text x="22" y="30" font-size="22" font-weight="900" fill="white" text-anchor="middle" font-family="monospace">TS</text></g>
+<text x="218" y="158" font-size="13" font-weight="700" fill="white" text-anchor="middle">TypeScript</text>
+<!-- JavaScript -->
+<rect x="278" y="131" width="132" height="44" rx="22" fill="url(#p-js)"/>
+<g transform="translate(292,143) scale(0.52)"><rect x="2" y="2" width="40" height="40" rx="4" fill="#111" opacity="0.2"/><text x="22" y="30" font-size="22" font-weight="900" fill="#111" text-anchor="middle" font-family="monospace">JS</text></g>
+<text x="360" y="158" font-size="13" font-weight="700" fill="#111" text-anchor="middle">JavaScript</text>
+<!-- Tailwind -->
+<rect x="420" y="131" width="130" height="44" rx="22" fill="url(#p-tw)"/>
+<g transform="translate(434,143) scale(0.52)"><path d="M22 5c-5.5 0-9 2.8-10.5 8.3 2.1-2.8 4.6-3.8 7.3-3.2 1.6.4 2.7 1.6 4 2.8 2 2 4.4 4.3 9.5 4.3 5.5 0 9-2.8 10.5-8.3-2.1 2.8-4.6 3.8-7.3 3.2-1.6-.4-2.7-1.6-4-2.8C29.5 7.3 27.1 5 22 5zm-10.5 12.5C6 17.5 2.5 20.3 1 25.8c2.1-2.8 4.6-3.8 7.3-3.2 1.6.4 2.7 1.6 4 2.8 2 2 4.4 4.3 9.5 4.3 5.5 0 9-2.8 10.5-8.3-2.1 2.8-4.6 3.8-7.3 3.2-1.6-.4-2.7-1.6-4-2.8-2-2-4.4-4.3-9.5-4.3z" fill="white"/></g>
+<text x="500" y="158" font-size="13" font-weight="700" fill="white" text-anchor="middle">Tailwind CSS</text>
+<!-- Astro -->
+<rect x="560" y="131" width="102" height="44" rx="22" fill="url(#p-astro)"/>
+<g transform="translate(574,143) scale(0.52)"><path d="M16 5l3 9h-6l3-9zm0 0l-8 26h4l1.5-5h5l1.5 5h4L16 5zm-1.5 17l1.5-5 1.5 5h-3z" fill="white"/></g>
+<text x="632" y="158" font-size="13" font-weight="700" fill="white" text-anchor="middle">Astro</text>
+<!-- HTML5 -->
+<rect x="672" y="131" width="100" height="44" rx="22" fill="url(#p-html)"/>
+<g transform="translate(686,143) scale(0.52)"><path d="M4 2l3.2 36 14.8 4 14.8-4L40 2H4zm28.4 8H12l.5 5.5h19.5l-1.5 16.5L22 34l-8.5-2-.5-6.5h5l.3 3.5 3.7 1 3.7-1 .3-4.5H13L12 13.5h20l.4-3.5z" fill="white"/></g>
+<text x="724" y="158" font-size="13" font-weight="700" fill="white" text-anchor="middle">HTML5</text>
+
+<!-- ══ CLOUD ══ -->
+<rect x="10" y="198" width="780" height="84" rx="14" fill="url(#g-c)"/>
+<text x="26" y="218" font-size="9" font-weight="700" letter-spacing="2" fill="#fff" opacity="0.38">CLOUD &amp; SERVERLESS</text>
+<!-- AWS Lambda -->
+<rect x="24" y="225" width="130" height="44" rx="22" fill="url(#p-lambda)"/>
+<g transform="translate(38,237) scale(0.52)"><path d="M5 38L15 8h5l5 15 5-15h5L45 38h-5l-3.5-12L32 38h-4l-4.5-12L20 38H5zm0 0" fill="#111"/></g>
+<text x="96" y="252" font-size="13" font-weight="700" fill="#111" text-anchor="middle">AWS Lambda</text>
+<!-- DynamoDB -->
+<rect x="164" y="225" width="120" height="44" rx="22" fill="url(#p-dynamo)"/>
+<g transform="translate(178,237) scale(0.52)"><ellipse cx="22" cy="10" rx="18" ry="6" fill="none" stroke="white" stroke-width="2"/><ellipse cx="22" cy="22" rx="18" ry="6" fill="none" stroke="white" stroke-width="2"/><ellipse cx="22" cy="34" rx="18" ry="6" fill="none" stroke="white" stroke-width="2"/><line x1="4" y1="10" x2="4" y2="34" stroke="white" stroke-width="2"/><line x1="40" y1="10" x2="40" y2="34" stroke="white" stroke-width="2"/></g>
+<text x="236" y="252" font-size="13" font-weight="700" fill="white" text-anchor="middle">DynamoDB</text>
+<!-- Amazon S3 -->
+<rect x="294" y="225" width="116" height="44" rx="22" fill="url(#p-s3)"/>
+<g transform="translate(308,237) scale(0.52)"><path d="M22 4L4 12v20l18 8 18-8V12L22 4zm0 4l12 5.3L22 19 10 13.3 22 8zm-16 6.7l14 6.3v16l-14-6.3V14.7zm18 22.3V21l14-6.3v16L24 37z" fill="white"/></g>
+<text x="362" y="252" font-size="13" font-weight="700" fill="white" text-anchor="middle">Amazon S3</text>
+<!-- Serverless -->
+<rect x="420" y="225" width="116" height="44" rx="22" fill="url(#p-sls)"/>
+<g transform="translate(434,237) scale(0.52)"><path d="M10 30l8-20h6l-8 20H10zm14-20h6l8 20h-6l-8-20z" fill="white"/></g>
+<text x="488" y="252" font-size="13" font-weight="700" fill="white" text-anchor="middle">Serverless</text>
+<!-- Supabase -->
+<rect x="546" y="225" width="112" height="44" rx="22" fill="url(#p-supa)"/>
+<g transform="translate(560,237) scale(0.52)"><path d="M12 38V20l18-16v18L12 38z" fill="white"/><path d="M32 4v18L14 36l18-14V4z" fill="white" opacity="0.5"/></g>
+<text x="614" y="252" font-size="13" font-weight="700" fill="white" text-anchor="middle">Supabase</text>
+<!-- Azure Blob -->
+<rect x="668" y="225" width="116" height="44" rx="22" fill="url(#p-azure)"/>
+<g transform="translate(682,237) scale(0.52)"><path d="M20 4L4 22h10l-6 18 28-24H22L34 4H20z" fill="white"/></g>
+<text x="738" y="252" font-size="13" font-weight="700" fill="white" text-anchor="middle">Azure Blob</text>
+
+<!-- ══ DATOS ══ -->
+<rect x="10" y="292" width="780" height="84" rx="14" fill="url(#g-d)"/>
+<text x="26" y="312" font-size="9" font-weight="700" letter-spacing="2" fill="#fff" opacity="0.38">DATOS &amp; INTEGRACIÓN</text>
+<!-- MySQL -->
+<rect x="24" y="319" width="108" height="44" rx="22" fill="url(#p-mysql)"/>
+<g transform="translate(38,331) scale(0.52)"><path d="M6 6h32v32H6z" fill="none"/><path d="M8 8h14v8H8zm0 10h10v4H8zm0 6h8v12H8zm16-16h10v4H24zm0 6h14v4H24zm0 6h12v4H24zm0 6h10v4H24z" fill="white" opacity="0.9"/></g>
+<text x="80" y="346" font-size="13" font-weight="700" fill="white" text-anchor="middle">MySQL</text>
+<!-- GraphQL -->
+<rect x="142" y="319" width="114" height="44" rx="22" fill="url(#p-gql)"/>
+<g transform="translate(156,331) scale(0.52)"><circle cx="22" cy="5" r="4" fill="white"/><circle cx="39" cy="14" r="4" fill="white"/><circle cx="39" cy="30" r="4" fill="white"/><circle cx="22" cy="39" r="4" fill="white"/><circle cx="5" cy="30" r="4" fill="white"/><circle cx="5" cy="14" r="4" fill="white"/><line x1="22" y1="5" x2="39" y2="14" stroke="white" stroke-width="2"/><line x1="39" y1="14" x2="39" y2="30" stroke="white" stroke-width="2"/><line x1="39" y1="30" x2="22" y2="39" stroke="white" stroke-width="2"/><line x1="22" y1="39" x2="5" y2="30" stroke="white" stroke-width="2"/><line x1="5" y1="30" x2="5" y2="14" stroke="white" stroke-width="2"/><line x1="5" y1="14" x2="22" y2="5" stroke="white" stroke-width="2"/><circle cx="22" cy="22" r="5" fill="none" stroke="white" stroke-width="2"/></g>
+<text x="211" y="346" font-size="13" font-weight="700" fill="white" text-anchor="middle">GraphQL</text>
+<!-- n8n -->
+<rect x="266" y="319" width="88" height="44" rx="22" fill="url(#p-n8n)"/>
+<g transform="translate(278,331) scale(0.52)"><rect x="2" y="12" width="12" height="20" rx="3" fill="white"/><rect x="18" y="8" width="12" height="28" rx="3" fill="white"/><rect x="34" y="12" width="12" height="20" rx="3" fill="white"/></g>
+<text x="321" y="346" font-size="13" font-weight="700" fill="white" text-anchor="middle">n8n</text>
+<!-- Zoho CRM -->
+<rect x="364" y="319" width="118" height="44" rx="22" fill="url(#p-zoho)"/>
+<g transform="translate(378,331) scale(0.52)"><text x="22" y="30" font-size="26" font-weight="900" fill="white" text-anchor="middle" font-family="sans-serif">Z</text></g>
+<text x="434" y="346" font-size="13" font-weight="700" fill="white" text-anchor="middle">Zoho CRM</text>
+<!-- Figma API -->
+<rect x="492" y="319" width="116" height="44" rx="22" fill="url(#p-figma)"/>
+<g transform="translate(506,331) scale(0.52)"><rect x="10" y="2" width="12" height="12" rx="6" fill="white"/><rect x="22" y="2" width="12" height="12" rx="6" fill="white"/><rect x="10" y="14" width="12" height="12" rx="6" fill="white"/><rect x="22" y="14" width="12" height="12" rx="6" fill="white"/><rect x="10" y="26" width="12" height="12" rx="6" fill="white"/></g>
+<text x="562" y="346" font-size="13" font-weight="700" fill="white" text-anchor="middle">Figma API</text>
+
+<!-- ══ TOOLS ══ -->
+<rect x="10" y="386" width="780" height="84" rx="14" fill="url(#g-t)"/>
+<text x="26" y="406" font-size="9" font-weight="700" letter-spacing="2" fill="#fff" opacity="0.38">HERRAMIENTAS &amp; MOBILE</text>
+<!-- Git -->
+<rect x="24" y="413" width="90" height="44" rx="22" fill="url(#p-git)"/>
+<g transform="translate(37,425) scale(0.52)"><circle cx="8" cy="8" r="5" fill="white"/><circle cx="36" cy="8" r="5" fill="white"/><circle cx="8" cy="36" r="5" fill="white"/><line x1="8" y1="13" x2="8" y2="31" stroke="white" stroke-width="2.5"/><line x1="13" y1="8" x2="22" y2="8" stroke="white" stroke-width="2.5"/><path d="M22 8 Q36 8 36 22" fill="none" stroke="white" stroke-width="2.5"/><path d="M36 22v-9" fill="none" stroke="white" stroke-width="2.5"/></g>
+<text x="76" y="440" font-size="13" font-weight="700" fill="white" text-anchor="middle">Git</text>
+<!-- GitHub -->
+<rect x="124" y="413" width="108" height="44" rx="22" fill="url(#p-github)"/>
+<g transform="translate(138,425) scale(0.52)"><path d="M22 2C11 2 2 11 2 22c0 8.8 5.7 16.3 13.7 18.9 1 .2 1.4-.4 1.4-1v-3.4c-5.6 1.2-6.8-2.7-6.8-2.7-.9-2.3-2.2-2.9-2.2-2.9-1.8-1.2.1-1.2.1-1.2 2 .1 3 2 3 2 1.8 3 4.6 2.1 5.8 1.6.2-1.3.7-2.1 1.3-2.6-4.4-.5-9.1-2.2-9.1-9.8 0-2.2.8-3.9 2-5.3-.2-.5-.9-2.5.2-5.2 0 0 1.6-.5 5.4 2 1.6-.4 3.2-.6 4.8-.6 1.6 0 3.2.2 4.8.6 3.7-2.5 5.4-2 5.4-2 1.1 2.7.4 4.7.2 5.2 1.3 1.4 2 3.1 2 5.3 0 7.6-4.6 9.3-9 9.8.7.6 1.4 1.8 1.4 3.7v5.5c0 .6.3 1.2 1.4 1C38.3 38.3 44 30.8 44 22 44 11 35 2 22 2z" fill="white"/></g>
+<text x="192" y="440" font-size="13" font-weight="700" fill="white" text-anchor="middle">GitHub</text>
+<!-- Kotlin -->
+<rect x="242" y="413" width="104" height="44" rx="22" fill="url(#p-kotlin)"/>
+<g transform="translate(256,425) scale(0.52)"><path d="M2 2h20L2 22V2zm0 20L22 2h20L2 42V22zm0 20L42 2v40H2V42z" fill="white"/></g>
+<text x="306" y="440" font-size="13" font-weight="700" fill="white" text-anchor="middle">Kotlin</text>
+<!-- Jetpack Compose -->
+<rect x="356" y="413" width="162" height="44" rx="22" fill="url(#p-jetpack)"/>
+<g transform="translate(370,425) scale(0.52)"><path d="M22 4l16 9v18l-16 9L6 31V13L22 4z" fill="none" stroke="white" stroke-width="2.5"/><path d="M22 4v36M6 13l16 9 16-9" stroke="white" stroke-width="2" stroke-linecap="round"/></g>
+<text x="450" y="440" font-size="13" font-weight="700" fill="white" text-anchor="middle">Jetpack Compose</text>
+
+</svg>
