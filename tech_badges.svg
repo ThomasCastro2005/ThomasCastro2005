@@ -1,0 +1,132 @@
+<svg width="800" height="520" viewBox="0 0 800 520" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+<defs>
+  <linearGradient id="g-b" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#1a1a2e"/><stop offset="100%" stop-color="#16213e"/></linearGradient>
+  <linearGradient id="g-f" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#0f3460"/><stop offset="100%" stop-color="#0a1628"/></linearGradient>
+  <linearGradient id="g-c" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#1a0533"/><stop offset="100%" stop-color="#0d0221"/></linearGradient>
+  <linearGradient id="g-d" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#0a2818"/><stop offset="100%" stop-color="#041208"/></linearGradient>
+  <linearGradient id="g-t" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#1f0a0a"/><stop offset="100%" stop-color="#120404"/></linearGradient>
+
+  <linearGradient id="p-java"    x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#f89820"/><stop offset="100%" stop-color="#c85000"/></linearGradient>
+  <linearGradient id="p-spring"  x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#7ec850"/><stop offset="100%" stop-color="#4a8f1f"/></linearGradient>
+  <linearGradient id="p-node"    x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#5dba4f"/><stop offset="100%" stop-color="#217a14"/></linearGradient>
+  <linearGradient id="p-php"     x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#9a8fd0"/><stop offset="100%" stop-color="#5a4e9a"/></linearGradient>
+  <linearGradient id="p-react"   x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#23d9fb"/><stop offset="100%" stop-color="#0891b2"/></linearGradient>
+  <linearGradient id="p-ts"      x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#4d9de0"/><stop offset="100%" stop-color="#1a5fa8"/></linearGradient>
+  <linearGradient id="p-js"      x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ffe566"/><stop offset="100%" stop-color="#d4a000"/></linearGradient>
+  <linearGradient id="p-tw"      x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#38d9f5"/><stop offset="100%" stop-color="#0284c7"/></linearGradient>
+  <linearGradient id="p-astro"   x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#d580ff"/><stop offset="100%" stop-color="#7c22b0"/></linearGradient>
+  <linearGradient id="p-html"    x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ff7043"/><stop offset="100%" stop-color="#bf360c"/></linearGradient>
+  <linearGradient id="p-css"     x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#42a5f5"/><stop offset="100%" stop-color="#1565c0"/></linearGradient>
+  <linearGradient id="p-lambda"  x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ffb74d"/><stop offset="100%" stop-color="#e65100"/></linearGradient>
+  <linearGradient id="p-dynamo"  x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#7986cb"/><stop offset="100%" stop-color="#283593"/></linearGradient>
+  <linearGradient id="p-s3"      x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#81c784"/><stop offset="100%" stop-color="#2e7d32"/></linearGradient>
+  <linearGradient id="p-sls"     x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ff7961"/><stop offset="100%" stop-color="#c41c00"/></linearGradient>
+  <linearGradient id="p-supa"    x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#4ade80"/><stop offset="100%" stop-color="#15803d"/></linearGradient>
+  <linearGradient id="p-azure"   x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#60a5fa"/><stop offset="100%" stop-color="#1d4ed8"/></linearGradient>
+  <linearGradient id="p-mysql"   x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#64b5f6"/><stop offset="100%" stop-color="#1565c0"/></linearGradient>
+  <linearGradient id="p-gql"     x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#f06292"/><stop offset="100%" stop-color="#880e4f"/></linearGradient>
+  <linearGradient id="p-n8n"     x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ff80ab"/><stop offset="100%" stop-color="#c2185b"/></linearGradient>
+  <linearGradient id="p-zoho"    x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ef5350"/><stop offset="100%" stop-color="#b71c1c"/></linearGradient>
+  <linearGradient id="p-figma"   x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ff7043"/><stop offset="100%" stop-color="#e64a19"/></linearGradient>
+  <linearGradient id="p-git"     x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ff7043"/><stop offset="100%" stop-color="#bf360c"/></linearGradient>
+  <linearGradient id="p-github"  x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#757575"/><stop offset="100%" stop-color="#212121"/></linearGradient>
+  <linearGradient id="p-kotlin"  x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#b39ddb"/><stop offset="100%" stop-color="#6200ea"/></linearGradient>
+  <linearGradient id="p-jetpack" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#64b5f6"/><stop offset="100%" stop-color="#0d47a1"/></linearGradient>
+</defs>
+
+<!-- ══ BACKEND ══ -->
+<rect x="10" y="10" width="780" height="86" rx="14" fill="url(#g-b)"/>
+<text x="26" y="32" font-size="9" font-weight="700" letter-spacing="2" fill="#fff" opacity="0.4">BACKEND &amp; APIs</text>
+
+<rect x="24"  y="40" width="100" height="46" rx="23" fill="url(#p-java)"/>
+<text x="74"  y="69" font-size="13" font-weight="700" fill="white" text-anchor="middle">☕ Java</text>
+
+<rect x="134" y="40" width="136" height="46" rx="23" fill="url(#p-spring)"/>
+<text x="202" y="69" font-size="13" font-weight="700" fill="white" text-anchor="middle">🍃 Spring Boot</text>
+
+<rect x="280" y="40" width="108" height="46" rx="23" fill="url(#p-node)"/>
+<text x="334" y="69" font-size="13" font-weight="700" fill="white" text-anchor="middle">⬡ Node.js</text>
+
+<rect x="398" y="40" width="90"  height="46" rx="23" fill="url(#p-php)"/>
+<text x="443" y="69" font-size="13" font-weight="700" fill="white" text-anchor="middle">🐘 PHP</text>
+
+<!-- ══ FRONTEND ══ -->
+<rect x="10" y="106" width="780" height="86" rx="14" fill="url(#g-f)"/>
+<text x="26" y="128" font-size="9" font-weight="700" letter-spacing="2" fill="#fff" opacity="0.4">FRONTEND</text>
+
+<rect x="24"  y="136" width="100" height="46" rx="23" fill="url(#p-react)"/>
+<text x="74"  y="165" font-size="13" font-weight="700" fill="white" text-anchor="middle">⚛ React</text>
+
+<rect x="134" y="136" width="126" height="46" rx="23" fill="url(#p-ts)"/>
+<text x="197" y="165" font-size="13" font-weight="700" fill="white" text-anchor="middle">TS TypeScript</text>
+
+<rect x="270" y="136" width="126" height="46" rx="23" fill="url(#p-js)"/>
+<text x="333" y="165" font-size="13" font-weight="700" fill="#111" text-anchor="middle">JS JavaScript</text>
+
+<rect x="406" y="136" width="128" height="46" rx="23" fill="url(#p-tw)"/>
+<text x="470" y="165" font-size="13" font-weight="700" fill="white" text-anchor="middle">💨 Tailwind CSS</text>
+
+<rect x="544" y="136" width="98"  height="46" rx="23" fill="url(#p-astro)"/>
+<text x="593" y="165" font-size="13" font-weight="700" fill="white" text-anchor="middle">🚀 Astro</text>
+
+<rect x="652" y="136" width="96"  height="46" rx="23" fill="url(#p-html)"/>
+<text x="700" y="165" font-size="13" font-weight="700" fill="white" text-anchor="middle">HTML5</text>
+
+<!-- ══ CLOUD ══ -->
+<rect x="10" y="202" width="780" height="86" rx="14" fill="url(#g-c)"/>
+<text x="26" y="224" font-size="9" font-weight="700" letter-spacing="2" fill="#fff" opacity="0.4">CLOUD &amp; SERVERLESS</text>
+
+<rect x="24"  y="232" width="126" height="46" rx="23" fill="url(#p-lambda)"/>
+<text x="87"  y="261" font-size="13" font-weight="700" fill="#111" text-anchor="middle">λ AWS Lambda</text>
+
+<rect x="160" y="232" width="118" height="46" rx="23" fill="url(#p-dynamo)"/>
+<text x="219" y="261" font-size="13" font-weight="700" fill="white" text-anchor="middle">⚡ DynamoDB</text>
+
+<rect x="288" y="232" width="114" height="46" rx="23" fill="url(#p-s3)"/>
+<text x="345" y="261" font-size="13" font-weight="700" fill="white" text-anchor="middle">☁ Amazon S3</text>
+
+<rect x="412" y="232" width="114" height="46" rx="23" fill="url(#p-sls)"/>
+<text x="469" y="261" font-size="13" font-weight="700" fill="white" text-anchor="middle">⚙ Serverless</text>
+
+<rect x="536" y="232" width="110" height="46" rx="23" fill="url(#p-supa)"/>
+<text x="591" y="261" font-size="13" font-weight="700" fill="white" text-anchor="middle">⚡ Supabase</text>
+
+<rect x="656" y="232" width="114" height="46" rx="23" fill="url(#p-azure)"/>
+<text x="713" y="261" font-size="13" font-weight="700" fill="white" text-anchor="middle">☁ Azure Blob</text>
+
+<!-- ══ DATOS ══ -->
+<rect x="10" y="298" width="780" height="86" rx="14" fill="url(#g-d)"/>
+<text x="26" y="320" font-size="9" font-weight="700" letter-spacing="2" fill="#fff" opacity="0.4">DATOS &amp; INTEGRACIÓN</text>
+
+<rect x="24"  y="328" width="104" height="46" rx="23" fill="url(#p-mysql)"/>
+<text x="76"  y="357" font-size="13" font-weight="700" fill="white" text-anchor="middle">🐬 MySQL</text>
+
+<rect x="138" y="328" width="112" height="46" rx="23" fill="url(#p-gql)"/>
+<text x="194" y="357" font-size="13" font-weight="700" fill="white" text-anchor="middle">◈ GraphQL</text>
+
+<rect x="260" y="328" width="88"  height="46" rx="23" fill="url(#p-n8n)"/>
+<text x="304" y="357" font-size="13" font-weight="700" fill="white" text-anchor="middle">⚙ n8n</text>
+
+<rect x="358" y="328" width="116" height="46" rx="23" fill="url(#p-zoho)"/>
+<text x="416" y="357" font-size="13" font-weight="700" fill="white" text-anchor="middle">Z Zoho CRM</text>
+
+<rect x="484" y="328" width="114" height="46" rx="23" fill="url(#p-figma)"/>
+<text x="541" y="357" font-size="13" font-weight="700" fill="white" text-anchor="middle">✦ Figma API</text>
+
+<!-- ══ TOOLS ══ -->
+<rect x="10" y="394" width="780" height="86" rx="14" fill="url(#g-t)"/>
+<text x="26" y="416" font-size="9" font-weight="700" letter-spacing="2" fill="#fff" opacity="0.4">HERRAMIENTAS &amp; MOBILE</text>
+
+<rect x="24"  y="424" width="90"  height="46" rx="23" fill="url(#p-git)"/>
+<text x="69"  y="453" font-size="13" font-weight="700" fill="white" text-anchor="middle">⎇ Git</text>
+
+<rect x="124" y="424" width="104" height="46" rx="23" fill="url(#p-github)"/>
+<text x="176" y="453" font-size="13" font-weight="700" fill="white" text-anchor="middle">◉ GitHub</text>
+
+<rect x="238" y="424" width="102" height="46" rx="23" fill="url(#p-kotlin)"/>
+<text x="289" y="453" font-size="13" font-weight="700" fill="white" text-anchor="middle">K Kotlin</text>
+
+<rect x="350" y="424" width="160" height="46" rx="23" fill="url(#p-jetpack)"/>
+<text x="430" y="453" font-size="13" font-weight="700" fill="white" text-anchor="middle">✦ Jetpack Compose</text>
+
+</svg>
