@@ -1,0 +1,203 @@
+<svg width="800" height="520" viewBox="0 0 800 520" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', system-ui, -apple-system, sans-serif">
+  <defs>
+    <!-- Group gradients -->
+    <linearGradient id="g-backend" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#16213e"/>
+    </linearGradient>
+    <linearGradient id="g-frontend" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f3460"/>
+      <stop offset="100%" stop-color="#0a1628"/>
+    </linearGradient>
+    <linearGradient id="g-cloud" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a0533"/>
+      <stop offset="100%" stop-color="#0d0221"/>
+    </linearGradient>
+    <linearGradient id="g-data" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a2818"/>
+      <stop offset="100%" stop-color="#041208"/>
+    </linearGradient>
+    <linearGradient id="g-tools" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f0a0a"/>
+      <stop offset="100%" stop-color="#120404"/>
+    </linearGradient>
+
+    <!-- Pill gradients -->
+    <linearGradient id="p-java" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#f89820"/><stop offset="100%" stop-color="#c85000"/></linearGradient>
+    <linearGradient id="p-spring" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#7ec850"/><stop offset="100%" stop-color="#4a8f1f"/></linearGradient>
+    <linearGradient id="p-node" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#5dba4f"/><stop offset="100%" stop-color="#217a14"/></linearGradient>
+    <linearGradient id="p-php" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#9a8fd0"/><stop offset="100%" stop-color="#5a4e9a"/></linearGradient>
+
+    <linearGradient id="p-react" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#23d9fb"/><stop offset="100%" stop-color="#0891b2"/></linearGradient>
+    <linearGradient id="p-ts" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#4d9de0"/><stop offset="100%" stop-color="#1a5fa8"/></linearGradient>
+    <linearGradient id="p-js" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ffe566"/><stop offset="100%" stop-color="#d4a000"/></linearGradient>
+    <linearGradient id="p-tw" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#38d9f5"/><stop offset="100%" stop-color="#0284c7"/></linearGradient>
+    <linearGradient id="p-astro" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#d580ff"/><stop offset="100%" stop-color="#7c22b0"/></linearGradient>
+    <linearGradient id="p-html" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ff7043"/><stop offset="100%" stop-color="#bf360c"/></linearGradient>
+    <linearGradient id="p-css" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#42a5f5"/><stop offset="100%" stop-color="#1565c0"/></linearGradient>
+
+    <linearGradient id="p-lambda" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ffb74d"/><stop offset="100%" stop-color="#e65100"/></linearGradient>
+    <linearGradient id="p-dynamo" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#7986cb"/><stop offset="100%" stop-color="#283593"/></linearGradient>
+    <linearGradient id="p-s3" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#81c784"/><stop offset="100%" stop-color="#2e7d32"/></linearGradient>
+    <linearGradient id="p-sls" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ff7961"/><stop offset="100%" stop-color="#c41c00"/></linearGradient>
+    <linearGradient id="p-supa" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#4ade80"/><stop offset="100%" stop-color="#15803d"/></linearGradient>
+    <linearGradient id="p-azure" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#60a5fa"/><stop offset="100%" stop-color="#1d4ed8"/></linearGradient>
+
+    <linearGradient id="p-mysql" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#64b5f6"/><stop offset="100%" stop-color="#1565c0"/></linearGradient>
+    <linearGradient id="p-gql" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#f06292"/><stop offset="100%" stop-color="#880e4f"/></linearGradient>
+    <linearGradient id="p-n8n" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ff80ab"/><stop offset="100%" stop-color="#c2185b"/></linearGradient>
+    <linearGradient id="p-zoho" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ef5350"/><stop offset="100%" stop-color="#b71c1c"/></linearGradient>
+    <linearGradient id="p-figma" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ff7043"/><stop offset="100%" stop-color="#e64a19"/></linearGradient>
+
+    <linearGradient id="p-git" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#ff7043"/><stop offset="100%" stop-color="#bf360c"/></linearGradient>
+    <linearGradient id="p-github" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#616161"/><stop offset="100%" stop-color="#212121"/></linearGradient>
+    <linearGradient id="p-kotlin" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#b39ddb"/><stop offset="100%" stop-color="#6200ea"/></linearGradient>
+    <linearGradient id="p-jetpack" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#64b5f6"/><stop offset="100%" stop-color="#0d47a1"/></linearGradient>
+  </defs>
+
+  <!-- ── BACKEND ── -->
+  <rect x="10" y="10" width="780" height="86" rx="14" fill="url(#g-backend)" opacity="0.95"/>
+  <text x="26" y="32" font-size="9" font-weight="700" letter-spacing="2" fill="#ffffff" opacity="0.4" text-anchor="start">BACKEND &amp; APIs</text>
+
+  <!-- Java -->
+  <rect x="24" y="40" width="96" height="46" rx="23" fill="url(#p-java)"/>
+  <image href="https://cdn.simpleicons.org/openjdk/white" x="36" y="52" width="22" height="22"/>
+  <text x="86" y="69" font-size="13" font-weight="600" fill="white" text-anchor="middle">Java</text>
+
+  <!-- Spring Boot -->
+  <rect x="130" y="40" width="130" height="46" rx="23" fill="url(#p-spring)"/>
+  <image href="https://cdn.simpleicons.org/springboot/white" x="142" y="52" width="22" height="22"/>
+  <text x="210" y="69" font-size="13" font-weight="600" fill="white" text-anchor="middle">Spring Boot</text>
+
+  <!-- Node.js -->
+  <rect x="272" y="40" width="102" height="46" rx="23" fill="url(#p-node)"/>
+  <image href="https://cdn.simpleicons.org/nodedotjs/white" x="284" y="52" width="22" height="22"/>
+  <text x="348" y="69" font-size="13" font-weight="600" fill="white" text-anchor="middle">Node.js</text>
+
+  <!-- PHP -->
+  <rect x="384" y="40" width="86" height="46" rx="23" fill="url(#p-php)"/>
+  <image href="https://cdn.simpleicons.org/php/white" x="396" y="52" width="22" height="22"/>
+  <text x="450" y="69" font-size="13" font-weight="600" fill="white" text-anchor="middle">PHP</text>
+
+  <!-- ── FRONTEND ── -->
+  <rect x="10" y="106" width="780" height="86" rx="14" fill="url(#g-frontend)" opacity="0.95"/>
+  <text x="26" y="128" font-size="9" font-weight="700" letter-spacing="2" fill="#ffffff" opacity="0.4">FRONTEND</text>
+
+  <!-- React -->
+  <rect x="24" y="136" width="96" height="46" rx="23" fill="url(#p-react)"/>
+  <image href="https://cdn.simpleicons.org/react/white" x="36" y="148" width="22" height="22"/>
+  <text x="86" y="165" font-size="13" font-weight="600" fill="white" text-anchor="middle">React</text>
+
+  <!-- TypeScript -->
+  <rect x="130" y="136" width="122" height="46" rx="23" fill="url(#p-ts)"/>
+  <image href="https://cdn.simpleicons.org/typescript/white" x="142" y="148" width="22" height="22"/>
+  <text x="206" y="165" font-size="13" font-weight="600" fill="white" text-anchor="middle">TypeScript</text>
+
+  <!-- JavaScript -->
+  <rect x="262" y="136" width="122" height="46" rx="23" fill="url(#p-js)"/>
+  <image href="https://cdn.simpleicons.org/javascript/black" x="274" y="148" width="22" height="22"/>
+  <text x="338" y="165" font-size="13" font-weight="600" fill="#111" text-anchor="middle">JavaScript</text>
+
+  <!-- Tailwind -->
+  <rect x="394" y="136" width="122" height="46" rx="23" fill="url(#p-tw)"/>
+  <image href="https://cdn.simpleicons.org/tailwindcss/white" x="406" y="148" width="22" height="22"/>
+  <text x="470" y="165" font-size="13" font-weight="600" fill="white" text-anchor="middle">Tailwind CSS</text>
+
+  <!-- Astro -->
+  <rect x="526" y="136" width="96" height="46" rx="23" fill="url(#p-astro)"/>
+  <image href="https://cdn.simpleicons.org/astro/white" x="538" y="148" width="22" height="22"/>
+  <text x="598" y="165" font-size="13" font-weight="600" fill="white" text-anchor="middle">Astro</text>
+
+  <!-- HTML5 -->
+  <rect x="632" y="136" width="96" height="46" rx="23" fill="url(#p-html)"/>
+  <image href="https://cdn.simpleicons.org/html5/white" x="644" y="148" width="22" height="22"/>
+  <text x="704" y="165" font-size="13" font-weight="600" fill="white" text-anchor="middle">HTML5</text>
+
+  <!-- ── CLOUD ── -->
+  <rect x="10" y="202" width="780" height="86" rx="14" fill="url(#g-cloud)" opacity="0.95"/>
+  <text x="26" y="224" font-size="9" font-weight="700" letter-spacing="2" fill="#ffffff" opacity="0.4">CLOUD &amp; SERVERLESS</text>
+
+  <!-- AWS Lambda -->
+  <rect x="24" y="232" width="122" height="46" rx="23" fill="url(#p-lambda)"/>
+  <image href="https://cdn.simpleicons.org/awslambda/black" x="36" y="244" width="22" height="22"/>
+  <text x="100" y="261" font-size="13" font-weight="600" fill="#111" text-anchor="middle">AWS Lambda</text>
+
+  <!-- DynamoDB -->
+  <rect x="156" y="232" width="116" height="46" rx="23" fill="url(#p-dynamo)"/>
+  <image href="https://cdn.simpleicons.org/amazondynamodb/white" x="168" y="244" width="22" height="22"/>
+  <text x="236" y="261" font-size="13" font-weight="600" fill="white" text-anchor="middle">DynamoDB</text>
+
+  <!-- Amazon S3 -->
+  <rect x="282" y="232" width="110" height="46" rx="23" fill="url(#p-s3)"/>
+  <image href="https://cdn.simpleicons.org/amazons3/white" x="294" y="244" width="22" height="22"/>
+  <text x="360" y="261" font-size="13" font-weight="600" fill="white" text-anchor="middle">Amazon S3</text>
+
+  <!-- Serverless -->
+  <rect x="402" y="232" width="112" height="46" rx="23" fill="url(#p-sls)"/>
+  <image href="https://cdn.simpleicons.org/serverless/white" x="414" y="244" width="22" height="22"/>
+  <text x="480" y="261" font-size="13" font-weight="600" fill="white" text-anchor="middle">Serverless</text>
+
+  <!-- Supabase -->
+  <rect x="524" y="232" width="110" height="46" rx="23" fill="url(#p-supa)"/>
+  <image href="https://cdn.simpleicons.org/supabase/white" x="536" y="244" width="22" height="22"/>
+  <text x="602" y="261" font-size="13" font-weight="600" fill="white" text-anchor="middle">Supabase</text>
+
+  <!-- Azure -->
+  <rect x="644" y="232" width="138" height="46" rx="23" fill="url(#p-azure)"/>
+  <image href="https://cdn.simpleicons.org/microsoftazure/white" x="656" y="244" width="22" height="22"/>
+  <text x="746" y="261" font-size="13" font-weight="600" fill="white" text-anchor="middle">Azure Blob</text>
+
+  <!-- ── DATOS ── -->
+  <rect x="10" y="298" width="780" height="86" rx="14" fill="url(#g-data)" opacity="0.95"/>
+  <text x="26" y="320" font-size="9" font-weight="700" letter-spacing="2" fill="#ffffff" opacity="0.4">DATOS &amp; INTEGRACIÓN</text>
+
+  <!-- MySQL -->
+  <rect x="24" y="328" width="100" height="46" rx="23" fill="url(#p-mysql)"/>
+  <image href="https://cdn.simpleicons.org/mysql/white" x="36" y="340" width="22" height="22"/>
+  <text x="98" y="357" font-size="13" font-weight="600" fill="white" text-anchor="middle">MySQL</text>
+
+  <!-- GraphQL -->
+  <rect x="134" y="328" width="108" height="46" rx="23" fill="url(#p-gql)"/>
+  <image href="https://cdn.simpleicons.org/graphql/white" x="146" y="340" width="22" height="22"/>
+  <text x="206" y="357" font-size="13" font-weight="600" fill="white" text-anchor="middle">GraphQL</text>
+
+  <!-- n8n -->
+  <rect x="252" y="328" width="88" height="46" rx="23" fill="url(#p-n8n)"/>
+  <image href="https://cdn.simpleicons.org/n8n/white" x="264" y="340" width="22" height="22"/>
+  <text x="318" y="357" font-size="13" font-weight="600" fill="white" text-anchor="middle">n8n</text>
+
+  <!-- Zoho CRM -->
+  <rect x="350" y="328" width="112" height="46" rx="23" fill="url(#p-zoho)"/>
+  <image href="https://cdn.simpleicons.org/zoho/white" x="362" y="340" width="22" height="22"/>
+  <text x="428" y="357" font-size="13" font-weight="600" fill="white" text-anchor="middle">Zoho CRM</text>
+
+  <!-- Figma API -->
+  <rect x="472" y="328" width="110" height="46" rx="23" fill="url(#p-figma)"/>
+  <image href="https://cdn.simpleicons.org/figma/white" x="484" y="340" width="22" height="22"/>
+  <text x="550" y="357" font-size="13" font-weight="600" fill="white" text-anchor="middle">Figma API</text>
+
+  <!-- ── TOOLS ── -->
+  <rect x="10" y="394" width="780" height="86" rx="14" fill="url(#g-tools)" opacity="0.95"/>
+  <text x="26" y="416" font-size="9" font-weight="700" letter-spacing="2" fill="#ffffff" opacity="0.4">HERRAMIENTAS &amp; MOBILE</text>
+
+  <!-- Git -->
+  <rect x="24" y="424" width="88" height="46" rx="23" fill="url(#p-git)"/>
+  <image href="https://cdn.simpleicons.org/git/white" x="36" y="436" width="22" height="22"/>
+  <text x="92" y="453" font-size="13" font-weight="600" fill="white" text-anchor="middle">Git</text>
+
+  <!-- GitHub -->
+  <rect x="122" y="424" width="104" height="46" rx="23" fill="url(#p-github)"/>
+  <image href="https://cdn.simpleicons.org/github/white" x="134" y="436" width="22" height="22"/>
+  <text x="198" y="453" font-size="13" font-weight="600" fill="white" text-anchor="middle">GitHub</text>
+
+  <!-- Kotlin -->
+  <rect x="236" y="424" width="100" height="46" rx="23" fill="url(#p-kotlin)"/>
+  <image href="https://cdn.simpleicons.org/kotlin/white" x="248" y="436" width="22" height="22"/>
+  <text x="310" y="453" font-size="13" font-weight="600" fill="white" text-anchor="middle">Kotlin</text>
+
+  <!-- Jetpack Compose -->
+  <rect x="346" y="424" width="160" height="46" rx="23" fill="url(#p-jetpack)"/>
+  <image href="https://cdn.simpleicons.org/jetpackcompose/white" x="358" y="436" width="22" height="22"/>
+  <text x="450" y="453" font-size="13" font-weight="600" fill="white" text-anchor="middle">Jetpack Compose</text>
+
+</svg>
