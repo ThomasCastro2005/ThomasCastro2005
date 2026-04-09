@@ -41,11 +41,21 @@ Ingeniero de software en formación con experiencia real en entornos productivos
 
 <div align="center">
 
-<img src="./tech_badges.svg" width="100%" alt="Tech Stack"/>
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,css,html,tailwind,astro,vite,redux&perline=10&)](https://skillicons.dev)
+
+[![DevTools](https://skillicons.dev/icons?i=git,github,postman,vscode,figma,jest&perline=6)](https://skillicons.dev)
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,java,spring,php&perline=5)](https://skillicons.dev)
+
+[![Cloud](https://skillicons.dev/icons?i=aws,dynamodb,docker&perline=4)](https://skillicons.dev)
+
+[![DB](https://skillicons.dev/icons?i=mysql,mongodb&perline=2)](https://skillicons.dev)
+
+[![Integrations](https://skillicons.dev/icons?i=graphql,apollo&perline=2)](https://skillicons.dev)
+
+
 
 </div>
-
-> 💡 **Instrucción:** Sube el archivo `tech_badges.svg` (incluido en este repo) a la raíz de tu repositorio de perfil (`ThomasCastro2005`) junto con este README.
 
 <br/>
 
@@ -147,25 +157,6 @@ Integración serverless de captura de leads desde Meta Ads hacia Zoho CRM con de
 ### Sistema de Cotización de Techos
 Cotizador multi-paso con formulario dinámico, gestión de estado global y resultados en modal.
 `React` · `React Hook Form` · `Nanostores` · `Astro` · `TypeScript`
-
-<br/>
-
----
-
-## ◈ &nbsp;GitHub Stats
-
-> ⚠️ **Reemplaza `ThomasCastro2005` con tu username real de GitHub en las 3 URLs de abajo**
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ThomasCastro2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&locale=es"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasCastro2005&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&locale=es"/>
-
-<br/><br/>
-
-<img width="60%" src="https://streak-stats.demolab.com?user=ThomasCastro2005&theme=tokyonight&hide_border=false&locale=es&date_format=j%20M%5B%20Y%5D"/>
-
-</div>
 
 <br/>
 
